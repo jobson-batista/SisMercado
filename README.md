@@ -9,7 +9,7 @@ Sistema de mercado com as seguintes funcionalidades:
     <li> Dados salvos em arquivos txt;</li>
     <li>Visualizar lista de usuário, cliente e produtos.</li>
     </ul>
-<p>Feito por Jobson Batista</p>
+
     
     
     
